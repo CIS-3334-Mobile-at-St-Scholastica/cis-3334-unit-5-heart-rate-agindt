@@ -15,7 +15,8 @@
         android:id="@+id/textViewSelect"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/txtSelect" />
+        android:text="@string/txtSelect"
+        android:textStyle="bold" />
 
     <ListView
         android:id="@+id/listViewHeartRates"

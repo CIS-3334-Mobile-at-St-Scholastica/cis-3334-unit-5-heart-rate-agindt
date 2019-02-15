@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="Moderate">#b8ee21</color>
+    <color name="Endurance">#eff053</color>
+    <color name="Aerobic">#eeba57</color>
+    <color name="Anaerobic">#ee2b21</color>
 </resources>
