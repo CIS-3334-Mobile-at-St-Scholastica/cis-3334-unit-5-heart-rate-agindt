@@ -56,7 +56,9 @@ public class HeartRateAdapter  extends ArrayAdapter<HeartRate> {
         tvRange.setText(hr.getRangeName().toString());
         tvRangeDesc.setText(hr.getRangeDescrtiption());
 
-        if (tvRange.toString().equals("Moderate"))
+
+
+        if (tvRange.getText().toString().equals("Moderate"))
         {
             tvRange.setTextColor(ContextCompat.getColor(context, R.color.Moderate));
         }

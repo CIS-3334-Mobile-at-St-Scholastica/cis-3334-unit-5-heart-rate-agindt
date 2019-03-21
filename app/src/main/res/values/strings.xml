@@ -4,8 +4,7 @@
     <string name="txtSelect">Select a heart measurement</string>
     <string name="txtPulse">Pulse</string>
     <string name="txtViewPulse">0</string>
-    <string name="tvRangeName" />
-    <string name="tvRangeName" />
-    <string name="tvRange" />
-    <string name="tvRangeDesc" />
+    <string name="tvRangeName">0</string>
+    <string name="tvRange">0</string>
+    <string name="tvRangeDesc">0</string>
 </resources>
